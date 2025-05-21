@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <BannersList>
     <Banner>
-        <URL>./assets/images/switch-M2S-sogelinkconnect.png</URL>
+        <URL>https://github.com/bloc-in-bloc/front-banners/blob/main/images/switch-M2S-sogelinkconnect.png?raw=true</URL>
         <StartDate>2024-11-30</StartDate>
         <EndDate>2029-11-30</EndDate>
         <RedirectURL>https://www.sogelink.com/programme-switch-m2s/</RedirectURL>
         <Priority>0</Priority>
     </Banner>
     <Banner>
-        <URL>./assets/images/slide-formations.png</URL>
+        <URL>https://github.com/bloc-in-bloc/front-banners/blob/main/images/slide-formations.png?raw=true</URL>
         <StartDate>2024-11-30</StartDate>
         <EndDate>2029-11-30</EndDate>
         <RedirectURL>https://www.sogelink.com/nos-formations/</RedirectURL>
