@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<BannersList>
+    <Banner>
+        <URL>./assets/images/switch-M2S-sogelinkconnect.png</URL>
+        <StartDate>2024-11-30</StartDate>
+        <EndDate>2029-11-30</EndDate>
+        <RedirectURL>https://www.sogelink.com/programme-switch-m2s/</RedirectURL>
+        <Priority>0</Priority>
+    </Banner>
+    <Banner>
+        <URL>./assets/images/slide-formations.png</URL>
+        <StartDate>2024-11-30</StartDate>
+        <EndDate>2029-11-30</EndDate>
+        <RedirectURL>https://www.sogelink.com/nos-formations/</RedirectURL>
+        <Priority>1</Priority>
+    </Banner>
+</BannersList>
